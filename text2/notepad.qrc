@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/content_cut_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/content_cut_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/file_copy_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/file_copy_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/files_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/files_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/file_open_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/file_open_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/R.jfif</file>
+        <file>img/content_paste_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/content_paste_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/search_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/search_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>img/find_replace_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/format_bold_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/format_color_text_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/save_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/save_as_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/undo_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/redo_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+        <file>img/wrap_text_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png</file>
+    </qresource>
+</RCC>
